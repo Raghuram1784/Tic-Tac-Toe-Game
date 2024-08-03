@@ -27,4 +27,5 @@ This project implements the classic Tic Tac Toe game using HTML, CSS, and JavaSc
 
 # Application Screenshots
 ![Tic-Tac-Toe](Application-Screenshots/Tic-Tac-Toe1.png)
+![Tic-Tac-Toe](Application-Screenshots/Tic-Tac-Toe2.png)
  
