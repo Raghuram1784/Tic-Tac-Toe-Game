@@ -24,4 +24,7 @@ This project implements the classic Tic Tac Toe game using HTML, CSS, and JavaSc
    <li>If it's a draw: Display "Draw" and a handshake GIF. </li>
    <li>Choose to start a new game or reset the current game after it ends. </li>
 </ul>
+
+# Application Screenshots
+![Tic-Tac-Toe](Application-Screenshots/Tic-Tac-Toe1.png)
  
