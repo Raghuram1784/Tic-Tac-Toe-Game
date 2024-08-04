@@ -1,7 +1,7 @@
 # Tic-Tac-Toe-Game
 
 # Overview
-This project implements the classic Tic Tac Toe game using HTML, CSS, and JavaScript. It allows two players to play the game in a web browser.
+This project implements the classic **Tic Tac Toe** game using HTML, CSS, and JavaScript. It allows two players to play the game in a web browser.
 
 # Features
 <ul>
